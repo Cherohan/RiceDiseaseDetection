@@ -1,0 +1,26 @@
+<annotation>
+	<folder>LeafBlast</folder>
+	<filename>5071.jpg</filename>
+	<path>D:\666\YOLOV5\paper_data\VOC2024\images\LeafBlast\5071.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2172</width>
+		<height>2172</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LeafBlast</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1134</xmin>
+			<ymin>1860</ymin>
+			<xmax>1170</xmax>
+			<ymax>1960</ymax>
+		</bndbox>
+	</object>
+</annotation>

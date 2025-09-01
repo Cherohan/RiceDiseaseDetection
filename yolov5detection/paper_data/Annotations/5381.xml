@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Trichoborer</folder>
+	<filename>5381.jpg</filename>
+	<path>D:\666\YOLOV5\paper_data\VOC2024\images\Trichoborer\5381.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>484</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Trichoborer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>114</ymin>
+			<xmax>323</xmax>
+			<ymax>184</ymax>
+		</bndbox>
+	</object>
+</annotation>

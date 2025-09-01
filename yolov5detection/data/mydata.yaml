@@ -1,0 +1,23 @@
+train: D:/666/yolov5detection/paper_data/dataSet_path/train.txt
+val: D:/666/yolov5detection/paper_data/dataSet_path/val.txt
+test: D:/666/yolov5detection/paper_data/dataSet_path/test.txt
+
+# number of classes
+nc: 15
+
+# class names
+names: ["BacterialBlight",
+        "BacterialStripe",
+        "Borer",
+        "BrownSpot",
+        "Healthy",
+        "Hispa",
+        "LeafBlast",
+        "LeafRoller",
+        "LeafSmut",
+        "LeafTipBlight",
+        "Moth",
+        "Planthopper",
+        "Stalk",
+        "Trichoborer",
+        "Tungro"]

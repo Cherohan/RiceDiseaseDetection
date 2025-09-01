@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RiceDiseaseDetection_web_main</title>
+    <link rel="stylesheet" href="header_new.css">
+    <link rel="stylesheet" href="detections.css">
+    <link rel="stylesheet" href="news.css">
+    <link rel="stylesheet" href="account.css">
+    <style>
+        a:link{color: black; text-decoration: none}
+        a:visited{color: black; text-decoration: none}
+        a:hover{color: gray; text-decoration: underline}
+        a:active{color: green; text-decoration: underline}
+        body{
+            background: url("background_main_after2.jpg") no-repeat center center fixed; /* 由于CSS直接设置背景透明度非常不方便，因此在外部设置好背景图片透明度之后再导入 */
+            -webkit-background-size: cover;
+            -o-background-size: cover;
+            background-size: cover;
+            margin: 0;
+            font-family: Arial;
+        }
+        *{box-sizing: border-box;}
+
+        .car{
+            position: absolute;
+            bottom: 0px;
+        }
+        /* 设置页面大小变化时页面布局 */
+    </style>
+</head>
+<body>
+    <div class="logo">
+        <h1>母猪的产后护理系统</h1>
+    </div>
+
+    <div class="header">
+        <ul class="title">
+            <li class="title1"><a href="./main.html" target="_blank" title="main">主页</a></li>
+
+            <div class="inner">
+                <a class="firstTitle" href="#">服务</a>
+                <div class="tips">
+                    <a href="./service_fit.html" target="_blank" class="service_fit" title="service">保养</a>
+                    <a href="./service_repair.html" target="_blank" class="service_repair" title="service">维修</a>
+                </div>
+            </div>
+
+            <div class="inner">
+                <a class="firstTitle" href="#">配件</a>
+                <div class="tips">
+                    <a href="./accessory.html" target="_blank" title="accessory">配件</a>
+                </div>
+            </div>
+
+            <div class="inner">
+                <a class="firstTitle" href="#">药品</a>
+                <div class="tips">
+                    <a href="./drug_pesticide.html" target="_blank" class="manure" title="drug">农药</a>
+                    <a href="./drug_manure.html" target="_blank" class="pesticide" title="drug">肥料</a>
+                </div>
+            </div>
+
+            <div class="inner">
+                <a class="firstTitle" href="#">咨询</a>
+                <div class="tips">
+                    <a href="./consult.html" target="_blank" class="consult" title="consult">咨询</a>
+                </div>
+            </div>
+        </ul>
+    </div>
+
+
+    <div class="detections centerColumn">
+        <ul class="dets">
+            <li class="det DetectionTitle"><h3>检测</h3></li>
+            <li class="det"><a href="./detection/detection_camera.html" class="detection" target="_blank">摄像头</a></li>
+            <li class="det"><a href="./detection/detection_picture.html" class="detection" target="_blank">照片</a></li>
+            <li class="det"><a href="./detection/detection_vedio.html" class="detection" target="_blank">视频</a></li>
+        </ul>
+    </div>
+
+    <div class="searchBox">
+        <!-- 搜索框 -->
+        <form class="search topColumn" action="/" method="post" style="margin: auto;">
+            <input type="text" placeholder="搜索..." name="search">
+            <button type="submit" class="searchButton">搜索</button>
+        </form>
+    </div>
+
+    <div class="car leftColumn">
+        <h3>小车</h3>
+        <iframe height="200" width="300" name="RiceCar"></iframe>
+    </div>
+
+    <div class="news rightColumn">
+        <h3 class="NewsTitle">新闻</h3>
+        <iframe height="400" width="300" name="RiceNews">
+                <!-- src="https://www.ricedata.cn/variety/superice.htm"
+                frameborder="0"> -->
+        </iframe>
+        <p>数据来源于国家水稻数据中心 https://www.ricedata.cn/</p>
+    </div>
+
+    <div class="connection leftColumn">
+        <h3>监控</h3>
+    </div>
+
+    <div class="account">
+        <h3>账号</h3>
+    </div>
+
+<!-- 测试 -->
+    <!--
+    <button class="test" style="background-color: dodgerblue">1</button>
+    -->
+</body>
+</html>

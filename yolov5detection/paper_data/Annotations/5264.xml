@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Moth</folder>
+	<filename>5264.jpg</filename>
+	<path>D:\666\YOLOV5\paper_data\VOC2024\images\Moth\5264.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>304</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Moth</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>276</xmin>
+			<ymin>154</ymin>
+			<xmax>279</xmax>
+			<ymax>160</ymax>
+		</bndbox>
+	</object>
+</annotation>

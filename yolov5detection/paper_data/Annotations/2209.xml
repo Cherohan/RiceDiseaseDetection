@@ -1,0 +1,26 @@
+<annotation>
+	<folder>BrownSpot</folder>
+	<filename>2209.jpg</filename>
+	<path>D:\666\YOLOV5\paper_data\VOC2024\images\BrownSpot\2209.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2397</width>
+		<height>2397</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BrownSpot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1260</xmin>
+			<ymin>1112</ymin>
+			<xmax>1339</xmax>
+			<ymax>1197</ymax>
+		</bndbox>
+	</object>
+</annotation>

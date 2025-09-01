@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Healthy</folder>
+	<filename>2788.jpg</filename>
+	<path>D:\666\YOLOV5\paper_data\VOC2024\images\Healthy\2788.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2175</width>
+		<height>2175</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Healthy</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1114</xmin>
+			<ymin>2</ymin>
+			<xmax>1592</xmax>
+			<ymax>2175</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>LeafRoller</folder>
+	<filename>5118.jpg</filename>
+	<path>D:\666\YOLOV5\paper_data\VOC2024\images\LeafRoller\5118.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>310</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LeafRoller</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>225</xmin>
+			<ymin>141</ymin>
+			<xmax>262</xmax>
+			<ymax>170</ymax>
+		</bndbox>
+	</object>
+</annotation>

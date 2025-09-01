@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Hispa</folder>
+	<filename>4289.jpg</filename>
+	<path>D:\666\YOLOV5\paper_data\VOC2024\images\Hispa\4289.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2485</width>
+		<height>2485</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hispa</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2131</xmin>
+			<ymin>498</ymin>
+			<xmax>2485</xmax>
+			<ymax>698</ymax>
+		</bndbox>
+	</object>
+</annotation>

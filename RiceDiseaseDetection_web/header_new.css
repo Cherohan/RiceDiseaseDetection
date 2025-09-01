@@ -1,0 +1,75 @@
+/*
+此处配置导航栏样式层叠表
+*/
+*{
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0;
+}
+
+.logo{
+  background-color: white;
+  top: 0;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  padding: 1%;
+}
+
+.title{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: deepskyblue;
+  width: 100%;
+}
+
+.title1{
+  float: left;
+}
+
+.title1 a, .firstTitle
+{
+  display: inline-block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.title1 a:hover, .inner:hover, .firstTitle
+{
+  background-color: deepskyblue;
+}
+
+.inner
+{
+  display: inline-block;
+}
+
+.tips
+{
+  display: none;
+  position: absolute;
+  background-color: green;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.tips a
+{
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.tips a:hover {background-color: white}
+
+.inner:hover .tips
+{
+  display: block;
+}

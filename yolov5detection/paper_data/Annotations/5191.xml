@@ -1,0 +1,26 @@
+<annotation>
+	<folder>LeafTipBlight</folder>
+	<filename>5191.jpg</filename>
+	<path>D:\666\YOLOV5\paper_data\VOC2024\images\LeafTipBlight\5191.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LeafTipBlight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>210</ymin>
+			<xmax>31</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,62 @@
+/* 分割屏幕比例 */
+.leftColumn{
+    float: left;
+    width: 25%;
+}
+.rightColumn{
+    float: right;
+    width: 25%;
+}
+.centerColumn{
+    float: left;
+    width: 50%;
+    margin-left: 25%;
+}
+.topColumn{
+    float: top;
+    width: 100%;
+}
+
+/* 设置detection块的样式 */
+.detection{
+    background-color: white;
+    color: black;
+    height: 33.33%;
+    padding: 150px 150px 150px 150px;
+    text-align: center;
+}
+
+.dets{
+    list-style-type: none;
+    margin-top: 10%;
+    padding: 0;
+    width: 45%;
+    background-color: white;
+    position: absolute;
+    overflow: auto;
+    float: left;
+    border: 2px solid black;
+}
+
+.det a{
+    display: block;
+    color: black;
+    padding: 8px 16px;
+    text-decoration: none;
+    height: 100px;
+}
+
+.det a.active{
+    background-color: green;
+    color: white;
+}
+
+.det a:hover:not(.active){
+    background-color: green;
+    color: white;
+}
+
+.DetectionTitle{
+    text-align: center;
+    color: green;
+}

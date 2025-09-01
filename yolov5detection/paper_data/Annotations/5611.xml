@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tungro</folder>
+	<filename>5611.jpg</filename>
+	<path>D:\666\YOLOV5\paper_data\VOC2024\images\Tungro\5611.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>518</width>
+		<height>346</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tungro</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>332</xmin>
+			<ymin>158</ymin>
+			<xmax>337</xmax>
+			<ymax>166</ymax>
+		</bndbox>
+	</object>
+</annotation>

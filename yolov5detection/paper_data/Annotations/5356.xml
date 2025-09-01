@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Stalk</folder>
+	<filename>5356.jpg</filename>
+	<path>D:\666\YOLOV5\paper_data\VOC2024\images\Stalk\5356.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>533</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stalk</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>110</xmin>
+			<ymin>281</ymin>
+			<xmax>120</xmax>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+</annotation>

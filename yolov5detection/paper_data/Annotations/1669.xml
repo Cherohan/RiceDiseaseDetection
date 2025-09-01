@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Borer</folder>
+	<filename>1669.jpg</filename>
+	<path>D:\666\YOLOV5\paper_data\VOC2024\images\Borer\1669.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>695</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Borer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>18</ymin>
+			<xmax>420</xmax>
+			<ymax>646</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,8 @@
+body{
+    background: url('/background_main_after2.jpg') no-repeat center center fixed; /* 由于CSS直接设置背景透明度非常不方便，因此在外部设置好背景图片透明度之后再导入 */
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    margin: 0;
+    font-family: Arial;
+}

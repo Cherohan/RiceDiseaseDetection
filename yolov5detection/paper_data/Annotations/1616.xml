@@ -1,0 +1,26 @@
+<annotation>
+	<folder>BacterialStripe</folder>
+	<filename>1616.jpg</filename>
+	<path>D:\666\YOLOV5\paper_data\VOC2024\images\BacterialStripe\1616.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>533</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BacterialStripe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>420</xmin>
+			<ymin>171</ymin>
+			<xmax>434</xmax>
+			<ymax>188</ymax>
+		</bndbox>
+	</object>
+</annotation>
