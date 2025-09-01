@@ -1,2 +1,8 @@
 # RiceDiseaseDetection
 Rice pest and disease detection based on the YOLOV5 algorithm
+
+
+由于best_simple.onnx超出github的限制，因此本仓库仅上传了一个best_simple.onnx文件，可以找出其，并添加到以下路径：
+RiceDiseaseDetection\RiceDiseasesDetection_beh\RiceDiseaseDetection_backstage\DetectionAPP
+RiceDiseaseDetection\RiceDiseasesDetection_beh\RiceDiseaseDetection_backstage\static\detection
+RiceDiseaseDetection\RiceDiseasesDetection_beh\RiceDiseaseDetection_backstage\templates\HTML\detection
